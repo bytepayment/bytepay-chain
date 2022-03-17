@@ -1,9 +1,6 @@
-# Substrate Node Template
+# Bytepay substrate chain node
 
-[![Try on playground](https://img.shields.io/badge/Playground-Node_Template-brightgreen?logo=Parity%20Substrate)](https://docs.substrate.io/playground/) [![Matrix](https://img.shields.io/matrix/substrate-technical:matrix.org)](https://matrix.to/#/#substrate-technical:matrix.org)
-
-A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
-
+> base on substrate-node-template
 ## Getting Started
 
 Follow the steps below to get started with the Node Template, or get it up and running right from
@@ -104,7 +101,9 @@ db keystore network
 ```
 
 
-### Connect with Polkadot-JS Apps Front-end
+### Connect with Bytepay Front-end
+
+> Intergrate with Polkadot-JS Apps Front-end
 
 Once the node template is running locally, you can connect it with **Polkadot-JS Apps** front-end
 to interact with your chain. [Click
